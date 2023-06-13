@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Brendansbartlett
-- 👀 I’m interested in Softwware Engineeringand and Cyber Security
-- 🌱 I’m currently learning Cloud Computing from WGU and focusing on AWS, Azure and Comptia certifications
-- 💞️ I’m looking to collaborate on Cyber Security
+- 👀 I’m interested in Softwware Engineering and and Cyber Security
+- 🌱 I’m currently going to Western Governors University and studying Cloud Computing. My focus is on AWS, Azure and Comptia certifications
 - 📫 How to reach me LinkedIn https://www.linkedin.com/in/brendan-s-bartlett/
 
 <!---
