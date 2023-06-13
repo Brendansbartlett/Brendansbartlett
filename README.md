@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Brendansbartlett
-- 👀 I’m interested in Softwware Engineering and creating applications
-- 🌱 I’m currently learning Full-Stack Developing including HTML, CSS, Javascript, React, 
-- 💞️ I’m looking to collaborate on Cybersecurity
-- 📫 How to reach me LinkedIn @Brendan Bartlett Data Analyst | Cyber Operations Specialist 
+- 👀 I’m interested in Softwware Engineeringand and Cyber Security
+- 🌱 I’m currently learning Cloud Computing from WGU and focusing on AWS, Azure and Comptia certifications
+- 💞️ I’m looking to collaborate on Cyber Security
+- 📫 How to reach me LinkedIn https://www.linkedin.com/in/brendan-s-bartlett/
 
 <!---
 Brendansbartlett/Brendansbartlett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
